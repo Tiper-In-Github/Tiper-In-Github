@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tiper-In-Github
-- 👀 I’m interested in Python、BigData、AI、OpenCV、WebServer、Java and Centos、WindowsServer
-- 🌱 I’m currently learning Java and Centos
-- 💞️ I’m looking to collaborate on WebServer、Python、Game
+- 👀 I’m interested in Python、Vue、uni-app、Unity3D、AI、OpenCV、WebServer、WindowsServer、LinuxServer and Java
+- 🌱 I’m currently learning uni-app、Vue and Unity3D
+- 💞️ I’m looking to collaborate on WebServer、Python、Game、app
 - 📫 How to reach me?  You can ask tiper052@foxmail.com Email me
 
 <!---
