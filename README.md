@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on WebServer、Python、Game、app
 - 📫 How to reach me?  You can ask tiper052@foxmail.com Email me
 ## 主仓库 ✨
-- 平时的项目和协作在Gitee（码云）：<a href="https://gitee.com/wubie">无别(@wubie)</a>,Github更新较少(最近一年应该是完全没提交过，除了使用同步功能同步了几个小仓库外)
+- 平时的项目和协作在Gitee（码云）：[无别(@wubie)](https://gitee.com/wubie)</a>
+- 我最近的开源项目位于[https://gitee.com/chengdu-quanming-network/](https://gitee.com/chengdu-quanming-network/)
+- Github更新较少(最近一年应该是完全没提交过，除了使用同步功能同步了几个小仓库外)
 
 <!---
 Tiper-In-Github/Tiper-In-Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
