@@ -1,5 +1,5 @@
-👋 (｡･∀･)ﾉﾞ嗨，我是 @Tiper-In-Github
-👀 我对 Python、Golang、Vue、uni-app、Unity3D、AI、OpenCV、WebServer、LinuxServer以及Java感兴趣
-🌱 我最近在学习 uni-app、Vue 以及 Golang
-💞️ 我希望在 WebServer、Python、游戏(游戏策划\游戏服务器\GM)、uni-app 相关项目上合作
-📫 如何联系我呢? 你可以通过 tiper052@foxmail.com 这个邮箱与我联系
+- 👋 (｡･∀･)ﾉﾞ嗨，我是 @Tiper-In-Github
+- 👀 我对 Python、Golang、Vue、uni-app、Unity3D、AI、OpenCV、WebServer、LinuxServer以及Java感兴趣
+- 🌱 我最近在学习 uni-app、Vue 以及 Golang
+- 💞️ 我希望在 WebServer、Python、游戏(游戏策划\游戏服务器\GM)、uni-app 相关项目上合作
+- 📫 如何联系我呢? 你可以通过 tiper052@foxmail.com 这个邮箱与我联系
