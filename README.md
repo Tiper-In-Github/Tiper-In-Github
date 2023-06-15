@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Tiper-In-Github
-- 👀 I’m interested in Python、Vue、uni-app、Unity3D、AI、OpenCV、WebServer、WindowsServer、LinuxServer and Java
-- 🌱 I’m currently learning uni-app、Vue and Unity3D
-- 💞️ I’m looking to collaborate on WebServer、Python、Game、app
+- 👀 I’m interested in Python、Golang、Vue、uni-app、Unity3D、AI、OpenCV、WebServer、LinuxServer and Java
+- 🌱 I’m currently learning uni-app、Vue and Golang
+- 💞️ I’m looking to collaborate on WebServer、Python、Game(Game Plan\Game Server\GM)、uni-app
 - 📫 How to reach me?  You can ask tiper052@foxmail.com Email me
 ## 主仓库 ✨
-- 平时的项目和协作在Gitee（码云）：[无别(@wubie)](https://gitee.com/wubie)</a>
+- 大部分的项目和协作在Gitee（码云）：[无别(@wubie)](https://gitee.com/wubie)</a>
 - 我最近的开源项目位于[https://gitee.com/chengdu-quanming-network/](https://gitee.com/chengdu-quanming-network/)
-- Github更新较少(最近一年应该是完全没提交过，除了使用同步功能同步了几个小仓库外)
+- Github更新较少
 
 <!---
 Tiper-In-Github/Tiper-In-Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
