@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tiper-In-Github
+- 👋 Hi, I’m @Tiper-In-Github，nickName is Wubie(无别) or Pierce
 - 👀 I’m interested in Python、Golang、Vue、uni-app、Unity3D、AI、OpenCV、WebServer、LinuxServer and Java
 - 🌱 I’m currently learning uni-app、Vue and Golang
 - 💞️ I’m looking to collaborate on WebServer、Python、Game(Game Plan\Game Server\GM)、uni-app
