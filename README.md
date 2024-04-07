@@ -16,4 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 ## 独立维护的Casdoor Fork
 1.casdoor：修复bug(有PR原项目)，添加对QuanmSMS的支持
+
 2.go-sms-sender: 添加对QuanmSMS的支持
